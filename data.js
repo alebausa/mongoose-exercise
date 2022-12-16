@@ -23,7 +23,7 @@ module.exports = [
     email: 'kenny@mail.com',
     programmingLevel: 'beginner'
   },
-   {
+  {
     name: 'Lilly',
     age: 21,
     email: 'lilly@hotmail.com',
