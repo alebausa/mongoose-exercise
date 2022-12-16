@@ -6,9 +6,9 @@ module.exports = [
     programmingLevel: 'intermediate'
   },
   {
-    name: 'Patri Presidenta',
+    name: 'Trisha',
     age: 34,
-    email: 'patri@gmail.com',
+    email: 'trish@gmail.com',
     programmingLevel: 'advanced'
   },
   {
