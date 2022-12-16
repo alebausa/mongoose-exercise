@@ -1,26 +1,32 @@
 module.exports = [
   {
-    name: 'Matilda',
+    name: 'John Doe',
     age: 45,
-    email: 'mati@yahoo.com',
+    email: 'john@yahoo.com',
     programmingLevel: 'intermediate'
   },
   {
-    name: 'Pepe',
+    name: 'Patri Presidenta',
     age: 34,
-    email: 'pepe@gmail.com',
+    email: 'patri@gmail.com',
     programmingLevel: 'advanced'
   },
   {
-    name: 'Josep',
+    name: 'Joseph',
     age: 25,
-    email: 'josep@puma.com',
+    email: 'joseph@gmail.com',
     programmingLevel: 'advanced'
   },
   {
     name: 'Kenny',
     age: 19,
     email: 'kenny@mail.com',
+    programmingLevel: 'beginner'
+  },
+   {
+    name: 'Lilly',
+    age: 21,
+    email: 'lilly@hotmail.com',
     programmingLevel: 'beginner'
   }
 ]
